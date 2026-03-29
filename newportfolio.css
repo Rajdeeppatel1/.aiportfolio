@@ -1,0 +1,200 @@
+h2{
+    text-align: center ;
+     color: rgb(109, 67, 0);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    text-align:center;
+    font-size:369%;
+    width: 99%;
+     margin-bottom: 20px;
+    line-height: 1.6;
+
+    
+
+}
+h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+     color: rgb(109, 67, 0);
+    margin-top: 20px;
+    line-height: 1.6;
+}
+h2{
+     color: rgb(109, 67, 0);
+}
+
+a{
+     text-decoration:none;
+     text-align: end;
+     color: rgb(109, 67, 0);
+     background: none;
+}
+body{
+           background:linear-gradient(to right ,white, rgb(254, 215, 173));
+
+}
+
+
+nav a:hover{
+   
+    text-align: end;
+     color: rebeccapurple;
+    font-size: large;
+    background-color: transparent;
+
+
+}
+
+h2:hover{
+     color: rebeccapurple;
+     text-decoration: none;
+     text-shadow: 1 1 10 px  rgb(0, 0,0);
+}
+div{
+    text-align: center;
+}
+html{
+    scroll-behavior: smooth;
+}
+.rsm {
+    display:inline-block;  
+    margin: 20px auto;
+    color :rgb(254, 215, 173);
+    background-color:rgb(109, 67, 0);;
+   padding: 9px 15px;
+    border-radius: 10px;
+    
+    
+}
+ #AboutMe {
+    line-height :1;
+    display :inline;
+    color :rgb(109, 67, 0);
+    text-align:center;
+}
+#Education{
+    color:firebrick;
+    background-color: blueviolet;
+    margin:10px auto;
+    padding: 6px 4px auto;
+}
+#Contact::first-line{
+    margin: 10 px auto;
+    padding: 6px 4pxauto;
+    color: red;
+}
+#Skills{
+    display: flex;
+    justify-content:left;
+    align-items: flex-start;
+     background:linear-gradient(to right ,white, rgb(254, 215, 173));
+    gap: 20px;
+    width: 100%;
+    flex-wrap:nowrap;
+
+   
+
+
+    }
+
+
+.fa-brands{
+    text-align: 35%;
+    width: 75%;
+    margin: auto;
+    background: none;
+    font-size: 200%;
+    color: black;
+}
+.fa-solid{
+    text-align: 35%;
+    width: 5%;
+    margin: auto;
+    background: none;
+    font-size: 195%;
+    color: black;
+
+}
+H1{
+    text-align: left;
+}
+
+.img{
+    text-align: left;
+}
+#AboutMe p{
+    line-height: 2;
+    color :rgb(109, 67, 0);
+    font-weight: 700;
+    font-size: x-large;
+}
+#AboutMe p:hover{
+    color :rebeccapurple;
+}
+li{
+    color: rgb(109, 67, 0);
+    font-size: xx-large;
+  
+}
+
+.corefund{
+    width: 30%;
+    margin-top: 20px;
+    text-align: left;
+
+    
+}
+#headh6::first-letter{
+   
+    font-size: 150%;
+    
+ 
+}
+#h7 {
+    text-align: center;
+   color: rgb(109, 67, 0);
+   font-size: 300%;
+   line-height: 240%;
+   font-weight: 900;
+ 
+}
+#headh6{
+    text-align: center;
+   color: rgb(109, 67, 0);
+   font-size: 300%;
+   line-height: 140%;
+   font-weight: 900;
+
+}
+
+.fa-redhat{
+    color: red;
+
+}
+#certifications{
+    display: flex;
+        gap: 30%;
+
+
+
+    
+
+}
+#cert{
+    display: inline-block;
+    border:5px double rebeccapurple;
+    background:rgba(255,255,255,0.4);
+    border-radius: 20%;
+    color:#333;
+    padding: 20px 25px;
+   
+}
+.rsm:hover{
+    background-color: rebeccapurple;
+    font-size: large;
+    
+}
+h8::first-letter{
+       color: rgb(109, 67, 0);
+       background-color: blue;
+
+}
